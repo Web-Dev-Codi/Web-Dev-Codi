@@ -14,6 +14,7 @@
 ![hehim](https://user-images.githubusercontent.com/80214475/216589609-2b88a459-48b1-4760-8859-3d26975ddebc.svg)
 
 I’m looking to collaborate on:<br> Keeping my stack small for now to get a better grasp in a nich of the web space.<br>
+
 ![react](https://user-images.githubusercontent.com/80214475/216590191-dd25925d-1fc6-453e-9531-cfac40baa919.svg)
 ![nodejs](https://user-images.githubusercontent.com/80214475/216590248-c5dca694-4543-4f61-9d33-bce044e86cf5.svg)
 ![js](https://user-images.githubusercontent.com/80214475/216590323-b5c532ec-911b-4e7d-bdd4-91d412c896c4.svg)
@@ -22,6 +23,7 @@ I’m looking to collaborate on:<br> Keeping my stack small for now to get a bet
 
 
  📫 How to reach me:<br>
+ 
  <a href="mailto:cordiscobrian@gmail.com">![gmail](https://user-images.githubusercontent.com/80214475/216587521-c953e3c6-ada2-4df7-b4a5-31068e78a836.svg)</a>
   <a href="https://www.linkedin.com/in/brian-cordisco-500250205/">![linkedin](https://user-images.githubusercontent.com/80214475/216588173-dbf414eb-5fe0-4dd5-9ab5-a8dca1c02484.svg)</a>
 
