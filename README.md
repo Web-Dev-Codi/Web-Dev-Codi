@@ -10,7 +10,7 @@
 ![react](https://user-images.githubusercontent.com/80214475/216586936-789524e4-686e-4a1d-b690-bfb148d5c86f.svg)
 ![bootstrap](https://user-images.githubusercontent.com/80214475/216586983-87697b64-e91d-4300-ad7d-9a59e68bdad8.svg)
 
-✌️ Pronouns:
+😁 Pronouns:
 ![hehim](https://user-images.githubusercontent.com/80214475/216589609-2b88a459-48b1-4760-8859-3d26975ddebc.svg)
 
 I’m looking to collaborate on:<br> Keeping my stack small for now to get a better grasp in a nich of the web space.<br>
