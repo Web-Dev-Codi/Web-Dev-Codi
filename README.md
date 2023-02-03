@@ -14,7 +14,7 @@
 😄 Pronouns:![hehim](https://user-images.githubusercontent.com/80214475/216587164-9c280322-f7fd-4aca-960a-6152d449b775.svg)
 
  📫 How to reach me:
- <a href="">![gmail](https://user-images.githubusercontent.com/80214475/216587521-c953e3c6-ada2-4df7-b4a5-31068e78a836.svg)</a>
+ <a href="mailto:cordiscobrian@gmail.com">![gmail](https://user-images.githubusercontent.com/80214475/216587521-c953e3c6-ada2-4df7-b4a5-31068e78a836.svg)</a>
 
 
 
