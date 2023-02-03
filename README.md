@@ -1,7 +1,7 @@
 
 ![logo2](https://user-images.githubusercontent.com/80214475/216584956-2a589da4-abc7-4e28-afe4-cf1d50f7179a.png)
 
- 🌱 I’m currently learning 
+  <h1 style="text-align:center;">Love Front-end Development</h1>
 
 ![html](https://user-images.githubusercontent.com/80214475/216585939-5a1a1560-775a-40ab-8c27-97ff5bf66191.svg)
 ![js](https://user-images.githubusercontent.com/80214475/216586046-754facd3-0069-410b-b11c-b56acba3d177.svg)
@@ -15,6 +15,7 @@
 
  📫 How to reach me:
  <a href="mailto:cordiscobrian@gmail.com">![gmail](https://user-images.githubusercontent.com/80214475/216587521-c953e3c6-ada2-4df7-b4a5-31068e78a836.svg)</a>
+  <a href="https://www.linkedin.com/in/brian-cordisco-500250205/">![linkedin](https://user-images.githubusercontent.com/80214475/216588173-dbf414eb-5fe0-4dd5-9ab5-a8dca1c02484.svg)</a>
 
 
 
