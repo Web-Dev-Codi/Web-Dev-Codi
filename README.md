@@ -9,7 +9,6 @@
 ![html](https://user-images.githubusercontent.com/80214475/216586750-1018653b-ceb7-438f-9b25-b19532765544.svg)
 ![react](https://user-images.githubusercontent.com/80214475/216586936-789524e4-686e-4a1d-b690-bfb148d5c86f.svg)
 ![bootstrap](https://user-images.githubusercontent.com/80214475/216586983-87697b64-e91d-4300-ad7d-9a59e68bdad8.svg)
-![nodejs](https://user-images.githubusercontent.com/80214475/216587014-0a840b32-b0f4-43d5-87d2-409d064a92d0.svg)
 
 😄 Pronouns:
 ![hehim](https://user-images.githubusercontent.com/80214475/216589609-2b88a459-48b1-4760-8859-3d26975ddebc.svg)
