@@ -12,7 +12,7 @@
 😁 Pronouns:
 ![hehim](https://user-images.githubusercontent.com/80214475/216589609-2b88a459-48b1-4760-8859-3d26975ddebc.svg)
 
-I’m looking to collaborate on:<br> Keeping my stack small for now to get a better grasp in this area of web development.<br>
+Keeping my stack small for now to get a better grasp in this area of web development.<br>
 
 ![react](https://user-images.githubusercontent.com/80214475/216590191-dd25925d-1fc6-453e-9531-cfac40baa919.svg)
 ![js](https://user-images.githubusercontent.com/80214475/216590323-b5c532ec-911b-4e7d-bdd4-91d412c896c4.svg)
