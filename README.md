@@ -1,7 +1,7 @@
 
-![logo2](https://user-images.githubusercontent.com/80214475/216584956-2a589da4-abc7-4e28-afe4-cf1d50f7179a.png)
 
-  <h1 style="text-align:center;">Love Front-end Development</h1>
+<h1 style="text-align:center;">Love Front-end Development</h1>
+<h2 style="text-align:center;">Skills</h2>
 
 ![html](https://user-images.githubusercontent.com/80214475/216585939-5a1a1560-775a-40ab-8c27-97ff5bf66191.svg)
 ![js](https://user-images.githubusercontent.com/80214475/216586046-754facd3-0069-410b-b11c-b56acba3d177.svg)
