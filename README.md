@@ -12,11 +12,11 @@
 😁 Pronouns:
 ![hehim](https://user-images.githubusercontent.com/80214475/216589609-2b88a459-48b1-4760-8859-3d26975ddebc.svg)
 
-"Crafting the Web,
+"Crafting the Web, one pixel at a time"
 
-One Pixel
 
-at a Time"<br>
+
+<br>
 
 
 ![react](https://user-images.githubusercontent.com/80214475/216590191-dd25925d-1fc6-453e-9531-cfac40baa919.svg)
