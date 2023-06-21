@@ -19,10 +19,6 @@
 <br>
 
 
-![react](https://user-images.githubusercontent.com/80214475/216590191-dd25925d-1fc6-453e-9531-cfac40baa919.svg)
-![js](https://user-images.githubusercontent.com/80214475/216590323-b5c532ec-911b-4e7d-bdd4-91d412c896c4.svg)
-![html](https://user-images.githubusercontent.com/80214475/216590348-04637234-76bb-44fa-804e-b46b4cc9f885.svg)
-![css3](https://user-images.githubusercontent.com/80214475/216590363-f21f7847-b701-419d-a69b-e45f7953909d.svg)
 
 
  📫 CONTACT ME:<br>
