@@ -13,14 +13,7 @@
 ![hehim](https://user-images.githubusercontent.com/80214475/216589609-2b88a459-48b1-4760-8859-3d26975ddebc.svg)
 
 "Crafting the Web, one pixel at a time"
-
-
-
 <br>
-
-
-
-
  📫 CONTACT ME:<br>
  
  <a href="mailto:cordiscobrian@gmail.com">![gmail](https://user-images.githubusercontent.com/80214475/216587521-c953e3c6-ada2-4df7-b4a5-31068e78a836.svg)</a>
