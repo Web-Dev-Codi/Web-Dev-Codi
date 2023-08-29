@@ -1,4 +1,4 @@
-![Rust-000000](https://github.com/Web-Dev-Codi/Web-Dev-Codi/assets/80214475/38e87958-1e2f-4e1c-935f-df51965b815d)
+
 
 <h1 style="text-align:center;">Front-end Developer</h1>
 <h2 style="text-align:center;">Skills</h2>
@@ -8,7 +8,7 @@
 ![css3](https://user-images.githubusercontent.com/80214475/216586706-7e27ea3e-65ab-4443-afab-c0d143db20d5.svg)
 ![react](https://user-images.githubusercontent.com/80214475/216586936-789524e4-686e-4a1d-b690-bfb148d5c86f.svg)
 ![bootstrap](https://user-images.githubusercontent.com/80214475/216586983-87697b64-e91d-4300-ad7d-9a59e68bdad8.svg)
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+
 
 
 
