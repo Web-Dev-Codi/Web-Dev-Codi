@@ -1,6 +1,6 @@
 
 
-<h1 style="text-align:center;">Front-end Developer</h1>
+<h1 style="text-align:center;">Full-Stack Developer</h1>
 <h2 style="text-align:center;">Skills</h2>
 
 ![html](https://user-images.githubusercontent.com/80214475/216585939-5a1a1560-775a-40ab-8c27-97ff5bf66191.svg)
