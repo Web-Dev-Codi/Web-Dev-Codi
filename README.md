@@ -1,6 +1,8 @@
 
+<img width="993" alt="image" src="https://github.com/Web-Dev-Codi/Web-Dev-Codi/assets/80214475/d2df94c4-9c73-4009-b247-28469d0aa040">
 
 <h1 style="text-align:center;">Full-Stack Developer</h1>
+
 <h2 style="text-align:center;">Skills</h2>
 
 ![html](https://user-images.githubusercontent.com/80214475/216585939-5a1a1560-775a-40ab-8c27-97ff5bf66191.svg)
@@ -8,8 +10,6 @@
 ![css3](https://user-images.githubusercontent.com/80214475/216586706-7e27ea3e-65ab-4443-afab-c0d143db20d5.svg)
 ![react](https://user-images.githubusercontent.com/80214475/216586936-789524e4-686e-4a1d-b690-bfb148d5c86f.svg)
 ![bootstrap](https://user-images.githubusercontent.com/80214475/216586983-87697b64-e91d-4300-ad7d-9a59e68bdad8.svg)
-
-
 
 
 😁 Pronouns:
