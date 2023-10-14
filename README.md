@@ -11,11 +11,9 @@
 ![react](https://user-images.githubusercontent.com/80214475/216586936-789524e4-686e-4a1d-b690-bfb148d5c86f.svg)
 ![bootstrap](https://user-images.githubusercontent.com/80214475/216586983-87697b64-e91d-4300-ad7d-9a59e68bdad8.svg)
 
-<br>
- 📫 CONTACT ME:<br>
- 
- <a href="mailto:cordiscobrian@gmail.com">![gmail](https://user-images.githubusercontent.com/80214475/216587521-c953e3c6-ada2-4df7-b4a5-31068e78a836.svg)</a>
  ### Be sure to check out my [Portfolio](https://www.webdevcodi.com).
+ 
+ 
 
 
 
