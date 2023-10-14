@@ -13,7 +13,7 @@
 <!--
 [![Web-Dev-Codi's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-dev-codi)](https://github.com/web-defv-codi/github-readme-stats)
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-dev-codi&layout=donut)](https://github.com/web-dev-codi/github-readme-stats)
  ### Be sure to check out my [Portfolio](https://www.webdevcodi.com).
  
  
