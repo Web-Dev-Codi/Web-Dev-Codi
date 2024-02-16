@@ -14,7 +14,7 @@
 [![Web-Dev-Codi's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-dev-codi)](https://github.com/web-defv-codi/github-readme-stats)
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-dev-codi&layout=donut)](https://github.com/web-dev-codi/github-readme-stats)
- ### Stop by my porfolio for projects, and collaborations [webdevcodi.com](https://www.webdevcodi.com).
+ ### Check my porfolio for projects, or possible collaborations [webdevcodi.com](https://www.webdevcodi.com).
  
  
 
