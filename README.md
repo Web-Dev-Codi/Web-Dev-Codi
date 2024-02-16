@@ -1,9 +1,18 @@
 
 <img width="993" alt="image" src="https://github.com/Web-Dev-Codi/Web-Dev-Codi/assets/80214475/d2df94c4-9c73-4009-b247-28469d0aa040">
 
-<h1 style="text-align:center;">Front-End Developer</h1>
+## Full-Stack Developer
 
-<h2 style="text-align:center;">Things I grow in everyday</h2>
+## Extra-Curricular Activities
+
+1. Continuous Learning: You’ll often find me immersed in JavaScript books, exploring the latest in technology, or
+delving into documentation to enrich my lifelong learning journey.
+2. Online Courses and Certifications: I’ve consistently completed a variety of online courses and obtained certificates.
+These endeavors reflect my commitment to staying informed about industry trends and deepening my
+foundational knowledge in a concise and focused manner.
+
+
+## Things I grow in everyday
 
 ![html](https://user-images.githubusercontent.com/80214475/216585939-5a1a1560-775a-40ab-8c27-97ff5bf66191.svg)
 ![js](https://user-images.githubusercontent.com/80214475/216586046-754facd3-0069-410b-b11c-b56acba3d177.svg)
