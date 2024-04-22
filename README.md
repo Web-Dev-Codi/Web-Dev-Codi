@@ -3,13 +3,13 @@
 
 ## Full-Stack Developer
 
-## Extra-Curricular Activities
+<!-- ## Extra-Curricular Activities
 
 1. Continuous Learning: You’ll often find me immersed in JavaScript books, exploring the latest in technology, or
 delving into documentation to enrich my lifelong learning journey.
 2. Online Courses and Certifications: I’ve consistently completed a variety of online courses and obtained certificates.
 These endeavors reflect my commitment to staying informed about industry trends and deepening my
-foundational knowledge in a concise and focused manner.
+foundational knowledge in a concise and focused manner. -->
 
 
 ## Things I grow in everyday
