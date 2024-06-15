@@ -18,7 +18,7 @@ foundational knowledge in a concise and focused manner. -->
 ![js](https://user-images.githubusercontent.com/80214475/216586046-754facd3-0069-410b-b11c-b56acba3d177.svg)
 ![css3](https://user-images.githubusercontent.com/80214475/216586706-7e27ea3e-65ab-4443-afab-c0d143db20d5.svg)
 ![react](https://user-images.githubusercontent.com/80214475/216586936-789524e4-686e-4a1d-b690-bfb148d5c86f.svg)
-![bootstrap](https://user-images.githubusercontent.com/80214475/216586983-87697b64-e91d-4300-ad7d-9a59e68bdad8.svg)
+
 <!--
 [![Web-Dev-Codi's GitHub stats](https://github-readme-stats.vercel.app/api?username=web-dev-codi)](https://github.com/web-defv-codi/github-readme-stats)
 -->
