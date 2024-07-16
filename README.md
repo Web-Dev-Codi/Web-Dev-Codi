@@ -1,5 +1,5 @@
 <h2 style="text-align: center;">Web Developer</h2>
-<img width="100%" alt="image" src="/screentwo.png">
+<img width="100%" alt="image" src="/screenthree.png">
 
 <h2 style="text-align: center;">Tech Interests</h2>
 
