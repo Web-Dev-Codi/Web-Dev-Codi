@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-dev-codi&layout=donut)](https://github.com/web-dev-codi/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=web-dev-codi)](https://git.io/streak-stats)
 
-##### Explore my portfolio for projects and potential collaborations. [webdevcodi.com](https://www.webdevcodi.com).
+##### [webdevcodi.com](https://www.webdevcodi.com).
 
 <!--
 **desiredstate2021/desiredstate2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
