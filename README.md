@@ -8,10 +8,9 @@
 ![css3](https://user-images.githubusercontent.com/80214475/216586706-7e27ea3e-65ab-4443-afab-c0d143db20d5.svg)
 ![react](https://user-images.githubusercontent.com/80214475/216586936-789524e4-686e-4a1d-b690-bfb148d5c86f.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-dev-codi&layout=donut)](https://github.com/web-dev-codi/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Web-Dev-Codi)](https://git.io/streak-stats)
-[[![Web-Dev-Codi's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=web-dev-codi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Web-Dev-Codi&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=web-dev-codi&layout=donut)
+![Web-Dev-Codi's's github activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Web-Dev-Codi&theme=tokyonight)
+
 
 ##### [webdevcodi.com](https://www.webdevcodi.com)
 
