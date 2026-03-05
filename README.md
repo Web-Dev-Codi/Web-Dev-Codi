@@ -1,17 +1,17 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7209B7,FF2D78,00D4FF&height=250&section=header&text=Web-Dev-Codi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Berlin%20%F0%9F%87%A9%F0%9F%87%AA&descAlignY=55&descSize=22)
+
 <div align="center">
 
-![Web-Dev-Codi Banner](https://custom-icon-badges.demolab.com/badge/-WEB%20DEVELOPER-5A67D6?style=for-the-badge&logoColor=white&logo=codepen&labelColor=2D3748)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF2D78&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Web-Dev-Codi+%F0%9F%91%8B;Passionate+Front-End+Developer;Building+beautiful+web+experiences+%E2%9C%A8;Always+coding%2C+always+learning+%F0%9F%9A%80;Based+in+Berlin%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA)](https://git.io/typing-svg)
 
-# 👋 Welcome to My GitHub Universe
+![Role](https://custom-icon-badges.demolab.com/badge/-WEB%20DEVELOPER-FF2D78?style=for-the-badge&logoColor=white&logo=codepen&labelColor=7209B7)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Web-Dev-Codi&style=for-the-badge&color=0EA5E9&label=Profile%20Views&labelColor=1E293B)
-![GitHub Stars](https://img.shields.io/github/stars/Web-Dev-Codi?style=for-the-badge&color=F59E0B&labelColor=1E293B&logo=github)
-![Followers](https://img.shields.io/github/followers/Web-Dev-Codi?style=for-the-badge&color=10B981&labelColor=1E293B&logo=github)
+[![Website](https://img.shields.io/badge/🌐_Website-web--dev--codi.onrender.com-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A1A)](https://web-dev-codi.onrender.com/)
+[![Location](https://img.shields.io/badge/📍_Location-Berlin,_Germany-FF2D78?style=for-the-badge&logoColor=white&labelColor=0A0A1A)]()
 
-**Passionate web developer crafting digital experiences with love for front-end magic**
-
-[![Website](https://img.shields.io/badge/🌐_Website-web--dev--codi.onrender.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B)](https://web-dev-codi.onrender.com/)
-[![Location](https://img.shields.io/badge/📍_Location-Berlin,_Germany-DC2626?style=for-the-badge&logo=map-marker&logoColor=white&labelColor=1E293B)]()
+![Visitor Count](https://komarev.com/ghpvc/?username=Web-Dev-Codi&style=for-the-badge&color=00FF9C&label=Profile%20Views&labelColor=0A0A1A)
+![GitHub Stars](https://img.shields.io/github/stars/Web-Dev-Codi?style=for-the-badge&color=FF2D78&labelColor=0A0A1A&logo=github)
+![Followers](https://img.shields.io/github/followers/Web-Dev-Codi?style=for-the-badge&color=00D4FF&labelColor=0A0A1A&logo=github)
 
 ---
 
@@ -21,10 +21,14 @@
 
 ```javascript
 const developer = {
-  passions: ["Web Development", "Front-End Magic", "Open Source"],
-  specialties: ["HTML5", "CSS3", "JavaScript", "Modern Frameworks"],
-  mission: "Building beautiful, functional web experiences",
-  status: "Always coding, always learning 🚀"
+  name:              "Web-Dev-Codi",
+  location:          "Berlin, Germany 🇩🇪",
+  passions:          ["Web Development", "Front-End Magic", "Open Source"],
+  specialties:       ["HTML5", "CSS3", "JavaScript", "Modern Frameworks"],
+  currentlyBuilding: ["OllamaTerm 🤖", "DeutschBuddy 🇩🇪"],
+  mission:           "Building beautiful, functional web experiences",
+  funFact:           "I debug with console.log and I'm not sorry 😅",
+  status:            "Always coding, always learning 🚀"
 };
 ```
 
@@ -34,60 +38,81 @@ const developer = {
 
 ## 🛠️ Tech Arsenal
 
-</div>
+[![Frontend & Languages](https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,bash&theme=dark&perline=8)](https://skillicons.dev)
+
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,github,vscode,linux,markdown,npm,vercel,docker&theme=dark&perline=8)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
 
 <table align="center">
   <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-      <br><sub>HTML5</sub>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Web-Dev-Codi&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A1A&title_color=FF2D78&icon_color=00FF9C&text_color=00D4FF&rank_icon=percentile" alt="GitHub Stats" />
     </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-      <br><sub>CSS3</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br><sub>JavaScript</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br><sub>Python</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-      <br><sub>Git</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-      <br><sub>GitHub</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      <br><sub>Node.js</sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br><sub>React</sub>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Web-Dev-Codi&theme=radical&hide_border=true&background=0A0A1A&stroke=FF2D78&ring=FF2D78&fire=FF2D78&dates=00D4FF&sideLabels=00D4FF&sideNums=FF2D78&currStreakLabel=FF2D78&currStreakNum=FF2D78" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<div align="center">
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Web-Dev-Codi&theme=tokyo-night&bg_color=0A0A1A&color=FF2D78&line=00D4FF&point=00FF9C&area=true&hide_border=true)
 
 ---
 
-## 📌 Projects
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Web-Dev-Codi&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Issues,Stars,PullRequest,Repositories)
+
+---
+
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Codi&layout=compact&theme=radical&hide_border=true&bg_color=0A0A1A&title_color=FF2D78&text_color=00D4FF&langs_count=8)
+
+---
+
+## 🐍 Watch My Contributions Get Eaten
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Web-Dev-Codi/Web-Dev-Codi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Web-Dev-Codi/Web-Dev-Codi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Web-Dev-Codi/Web-Dev-Codi/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## 🌐 3D Contribution Calendar
+
+![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+## ⏱️ WakaTime Coding Stats
+
+> **Setup:** Create a free account at [wakatime.com](https://wakatime.com), install the editor plugin, then add `WAKATIME_API_KEY` as a repository secret.
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Web-Dev-Codi&theme=radical&hide_border=true&bg_color=0A0A1A&title_color=FF2D78&text_color=00D4FF&icon_color=00FF9C&layout=compact&langs_count=8)
 
 </div>
 
-### 🖥️ [OllamaTerm](/Web-Dev-Codi/OllamaTerm)
+---
+
+## 📌 Featured Projects
+
+### 🖥️ [OllamaTerm](https://github.com/Web-Dev-Codi/OllamaTerm)
 > **Terminal chat TUI for local Ollama models**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/OllamaTerm?style=for-the-badge&color=F59E0B)]()
+[![Python](https://img.shields.io/badge/Python-FF2D78?style=for-the-badge&logo=python&logoColor=white)]()
+[![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/OllamaTerm?style=for-the-badge&color=FF2D78&labelColor=0A0A1A)]()
 
 ✨ **Features:**
+
 - 📡 Streaming responses with real-time output
 - 🧠 Auto-detected thinking & tools support
 - 👁️ Vision capabilities per model
@@ -97,12 +122,13 @@ const developer = {
 
 ---
 
-### 🇩🇪 [DeutschBuddy](/Web-Dev-Codi/DeutschBuddy)
+### 🇩🇪 [DeutschBuddy](https://github.com/Web-Dev-Codi/DeutschBuddy)
 > **Your friendly companion for learning German**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-FF2D78?style=for-the-badge&logo=python&logoColor=white)]()
 
 🎯 **Perfect for English speakers learning German!**
+
 - 📚 Interactive lessons tailored for your level
 - 🎧 Pronunciation practice with feedback
 - 📝 Grammar exercises made fun
@@ -110,13 +136,14 @@ const developer = {
 
 ---
 
-### 📖 [Local-Web-Development-Setup-Guide](/Web-Dev-Codi/Local-Web-Development-Setup-Guide)
+### 📖 [Local-Web-Development-Setup-Guide](https://github.com/Web-Dev-Codi/Local-Web-Development-Setup-Guide)
 > **Complete web dev environment setup guide**
 
-[![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/Local-Web-Development-Setup-Guide?style=for-the-badge&color=F59E0B)]()
-[![Forks](https://img.shields.io/github/forks/Web-Dev-Codi/Local-Web-Development-Setup-Guide?style=for-the-badge&color=10B981)]()
+[![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/Local-Web-Development-Setup-Guide?style=for-the-badge&color=FF2D78&labelColor=0A0A1A)]()
+[![Forks](https://img.shields.io/github/forks/Web-Dev-Codi/Local-Web-Development-Setup-Guide?style=for-the-badge&color=00D4FF&labelColor=0A0A1A)]()
 
 🚀 **Learn to set up:**
+
 - 🐙 Git version control
 - 🟢 Node.js & npm
 - 🔐 SSH keys for GitHub
@@ -124,25 +151,27 @@ const developer = {
 
 ---
 
-### 🐧 [Arch Linux Hyprland Dotfile Installer](/Web-Dev-Codi/arch-linux-hyprland-dotfile-installer)
+### 🐧 [Arch Linux Hyprland Dotfile Installer](https://github.com/Web-Dev-Codi/arch-linux-hyprland-dotfile-installer)
 > **Automated Hyprland setup for Arch Linux**
 
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/CSS-00D4FF?style=for-the-badge&logo=css3&logoColor=white)]()
 
 ⚡ **One-command tiling window manager bliss**
+
 - 🎨 Beautiful pre-configured themes
 - ⚙️ Automated installation
 - 🔧 Customizable configurations
 
 ---
 
-### 📝 [DevLogger](/Web-Dev-Codi/DevLogger)
+### 📝 [DevLogger](https://github.com/Web-Dev-Codi/DevLogger)
 > **Beautiful CLI for Developer Work Logging**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/DevLogger?style=for-the-badge&color=F59E0B)]()
+[![Python](https://img.shields.io/badge/Python-FF2D78?style=for-the-badge&logo=python&logoColor=white)]()
+[![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/DevLogger?style=for-the-badge&color=FF2D78&labelColor=0A0A1A)]()
 
 📊 **Track your dev work with style:**
+
 - ⏱️ Time tracking with Rich UI
 - 📋 Log tasks by Epic
 - 🔗 Auto-pull git commits with hash & timestamps
@@ -150,104 +179,45 @@ const developer = {
 
 ---
 
-### 🎬 [Flixx Movie Search Database](/Web-Dev-Codi/flixx-movie-search-database)
+### 🎬 [Flixx Movie Search Database](https://github.com/Web-Dev-Codi/flixx-movie-search-database)
 > **A comprehensive movie search engine**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/flixx-movie-search-database?style=for-the-badge&color=F59E0B)]()
+[![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/flixx-movie-search-database?style=for-the-badge&color=FF2D78&labelColor=0A0A1A)]()
 
 🍿 **Find any movie, anytime:**
+
 - 🔍 Advanced search capabilities
 - 📊 Detailed movie information
 - 🎭 All genres covered
 
-<div align="center">
-
 ---
-
-## 📊 GitHub Stats
-
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Web-Dev-Codi&show_icons=true&theme=dark&hide_border=true&bg_color=1E293B&title_color=0EA5E9&icon_color=0EA5E9&text_color=E2E8F0&rank_icon=percentile" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Web-Dev-Codi&theme=dark&hide_border=true&background=1E293B&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&dates=E2E8F0&sideLabels=E2E8F0&sideNums=0EA5E9&currStreakLabel=0EA5E9&currStreakNum=0EA5E9" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
-### 🏆 GitHub Trophies
+## 😂 Random Dev Joke
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Web-Dev-Codi&theme=dark_dimmed&no-frame=true&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Issues,Stars,PullRequest,Repositories)
-
----
-
-</div>
-
-## 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Codi&layout=compact&theme=dark&hide_border=true&bg_color=1E293B&title_color=0EA5E9&text_color=E2E8F0&langs_count=6)
-
----
-
-## 🎯 What I'm Working On
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" width="32" alt="rocket" />
-      <br><b>Innovating</b>
-    </td>
-    <td align="center">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.webp" width="32" alt="books" />
-      <br><b>Learning</b>
-    </td>
-    <td align="center">
-      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" width="32" alt="handshake" />
-      <br><b>Collaborating</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      Building tools that make development smoother
-    </td>
-    <td align="center">
-      Exploring new technologies and frameworks
-    </td>
-    <td align="center">
-      Open to contributions and partnerships
-    </td>
-  </tr>
-</table>
-
-<div align="center">
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&bgColor=%230A0A1A&textColor=%2300D4FF&borderColor=%23FF2D78&qColor=%23FF2D78&aColor=%2300FF9C&codeColor=%237209B7)
 
 ---
 
 ## 🔗 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Web--Dev--Codi-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=371547)](https://github.com/Web-Dev-Codi)
-[![Website](https://img.shields.io/badge/Website-web--dev--codi.onrender.com-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1E293B)](https://web-dev-codi.onrender.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-@Web--Dev--Codi-FF2D78?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A1A)](https://github.com/Web-Dev-Codi)
+[![Website](https://img.shields.io/badge/Website-web--dev--codi.onrender.com-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0A1A)](https://web-dev-codi.onrender.com/)
 
 ---
 
-## 💡 Quote of the Day
-
-> *"Code is like humor. When you have to explain it, it's bad."*  
-> — **Cory House**
+> *"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
 
 ---
 
-### ⭐ If you enjoy my work, consider giving my repos a star!
+### ⭐ If you enjoy my work, consider giving my repos a star
 
 Made with ❤️ by **Web-Dev-Codi** | Berlin, Germany 🇩🇪
 
-![Made with Love](https://custom-icon-badges.demolab.com/badge/-Made%20with%20Love-DC2626?style=flat-square&logo=heart&logoColor=white)
+![Made with Love](https://custom-icon-badges.demolab.com/badge/-Made%20with%20Love-FF2D78?style=flat-square&logo=heart&logoColor=white&labelColor=7209B7)
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=00D4FF,FF2D78,7209B7&height=150&section=footer)
