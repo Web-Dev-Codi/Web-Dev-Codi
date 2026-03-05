@@ -71,6 +71,8 @@ const developer = {
 
 ### 🖥️ [OllamaTerm](https://github.com/Web-Dev-Codi/OllamaTerm)
 > **Terminal chat TUI for local Ollama models**
+>
+> A fully-featured terminal UI for chatting with local Ollama models. Supports streaming responses, auto-detected thinking, tools & vision per model, multi-model switching mid-conversation, an agent loop with web search, image attachments, and persistent conversation history.
 
 [![Python](https://img.shields.io/badge/Python-FF2D78?style=for-the-badge&logo=python&logoColor=white)]()
 [![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/OllamaTerm?style=for-the-badge&color=FF2D78&labelColor=0A0A1A)]()
@@ -88,6 +90,8 @@ const developer = {
 
 ### 🇩🇪 [DeutschBuddy](https://github.com/Web-Dev-Codi/DeutschBuddy)
 > **Your friendly companion for learning German**
+>
+> Are you an English speaker that needs to learn German? DeutschBuddy is your interactive study companion — covering interactive lessons, pronunciation practice, grammar exercises, and real conversational scenarios tailored to your level.
 
 [![Python](https://img.shields.io/badge/Python-FF2D78?style=for-the-badge&logo=python&logoColor=white)]()
 
@@ -102,6 +106,8 @@ const developer = {
 
 ### 📖 [Local-Web-Development-Setup-Guide](https://github.com/Web-Dev-Codi/Local-Web-Development-Setup-Guide)
 > **Complete web dev environment setup guide**
+>
+> Learn how to set up a full web development environment with Git and Node.js on any operating system — Windows, macOS, or Linux. Covers installation, Git configuration, SSH key setup, and connecting to GitHub. Perfect for beginners with no experience required.
 
 [![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/Local-Web-Development-Setup-Guide?style=for-the-badge&color=FF2D78&labelColor=0A0A1A)]()
 [![Forks](https://img.shields.io/github/forks/Web-Dev-Codi/Local-Web-Development-Setup-Guide?style=for-the-badge&color=00D4FF&labelColor=0A0A1A)]()
@@ -117,6 +123,8 @@ const developer = {
 
 ### 🐧 [Arch Linux Hyprland Dotfile Installer](https://github.com/Web-Dev-Codi/arch-linux-hyprland-dotfile-installer)
 > **Automated Hyprland setup for Arch Linux**
+>
+> One-command automated installer for a fully configured Hyprland tiling window manager on Arch Linux. Ships with beautiful pre-configured themes, automated installation scripts, and fully customizable dotfiles — go from a fresh Arch install to a polished desktop in minutes.
 
 [![CSS](https://img.shields.io/badge/CSS-00D4FF?style=for-the-badge&logo=css3&logoColor=white)]()
 
@@ -130,6 +138,8 @@ const developer = {
 
 ### 📝 [DevLogger](https://github.com/Web-Dev-Codi/DevLogger)
 > **Beautiful CLI for Developer Work Logging**
+>
+> Automate your daily work logs with a gorgeous Rich UI. Track time, log tasks by Epic, auto-pull git commits with hash & timestamps, and generate weekly reports for your manager. Built for developers in Agile/Scrum teams — Markdown-based, Obsidian-ready, no more manual timesheets.
 
 [![Python](https://img.shields.io/badge/Python-FF2D78?style=for-the-badge&logo=python&logoColor=white)]()
 [![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/DevLogger?style=for-the-badge&color=FF2D78&labelColor=0A0A1A)]()
@@ -145,6 +155,8 @@ const developer = {
 
 ### 🎬 [Flixx Movie Search Database](https://github.com/Web-Dev-Codi/flixx-movie-search-database)
 > **A comprehensive movie search engine**
+>
+> A sleek, JavaScript-powered movie search engine that lets you find any film, anytime. Pulls from a live movie database with advanced search capabilities, detailed movie info, ratings, trailers, and full genre coverage.
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Stars](https://img.shields.io/github/stars/Web-Dev-Codi/flixx-movie-search-database?style=for-the-badge&color=FF2D78&labelColor=0A0A1A)]()
