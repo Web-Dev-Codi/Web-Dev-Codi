@@ -91,14 +91,6 @@ const developer = {
 
 ![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
 
----
-
-## ⏱️ WakaTime Coding Stats
-
-> **Setup:** Create a free account at [wakatime.com](https://wakatime.com), install the editor plugin, then add `WAKATIME_API_KEY` as a repository secret.
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Web-Dev-Codi&theme=radical&hide_border=true&bg_color=0A0A1A&title_color=FF2D78&text_color=00D4FF&icon_color=00FF9C&layout=compact&langs_count=8)
-
 </div>
 
 ---
