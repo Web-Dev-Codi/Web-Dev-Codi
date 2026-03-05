@@ -63,34 +63,6 @@ const developer = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Web-Dev-Codi&theme=tokyo-night&bg_color=0A0A1A&color=FF2D78&line=00D4FF&point=00FF9C&area=true&hide_border=true)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Web-Dev-Codi&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Issues,Stars,PullRequest,Repositories)
-
----
-
-## 📊 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Codi&layout=compact&theme=radical&hide_border=true&bg_color=0A0A1A&title_color=FF2D78&text_color=00D4FF&langs_count=8)
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Web-Dev-Codi/Web-Dev-Codi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Web-Dev-Codi/Web-Dev-Codi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Web-Dev-Codi/Web-Dev-Codi/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🌐 3D Contribution Calendar
-
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
-
 </div>
 
 ---
